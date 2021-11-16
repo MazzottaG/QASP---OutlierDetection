@@ -1,0 +1,9 @@
+down(a).
+up(b).
+down(c).
+up(d).
+up(e).
+up(f).
+up(g).
+up(h).
+up(t).
