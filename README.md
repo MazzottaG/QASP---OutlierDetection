@@ -28,3 +28,7 @@ Example:
 ```bash
   java -jar qasp-0.1.2.jar -m --n-models=1  QASP.lp
 ```
+## Related Works
+Angiulli et al. in 2007 proposed to employ Answer Set Programming (ASP) to compute outliers. Their solution is based on the saturation technique and, as a consequence, it is very hard to evaluate by ASP systems.
+
+The system is not public accessible and so, for further details and release version you need to contact angiulli@si.deis.unical.it
